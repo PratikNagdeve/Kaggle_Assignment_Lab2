@@ -30,3 +30,8 @@ Another screenshot showing successful Git operations:
 
 ![Git Push Proof 2](screenshots/Screenshot2.png)
 
+## Summary
+- Loaded the WISDM Human Activity dataset.  
+- Performed basic exploration of the dataset.  
+- Uploaded the notebook and dataset to GitHub to demonstrate assignment completion.
+
